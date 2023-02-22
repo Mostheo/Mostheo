@@ -3,14 +3,14 @@
 
 - 🌱 I’m currently learning **NodeJS, TypeScript and ReactJS**
 
-- 👨‍💻 All of my projects are available at [theopierre.dev](theopierre.dev)
+- 👨‍💻 All of my projects are available at [theopierre.dev](https://theopierre.dev/)
 
 - 📫 How to reach me **theo_pierre@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/onerebeck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="onerebeck" height="30" width="40" /></a>
-<a href="https://dribbble.com/theop." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="theop." height="30" width="40" /></a>
+<a href="https://dribbble.com/TheoPierre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="TheoPierre" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
