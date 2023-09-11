@@ -9,7 +9,7 @@
 ## 🤯 Skills
 👩‍💻 I'm currently working on **Tailwind, JavaScript**
 
-🧠 I'm currently learning **Node.js, TypeScript and React**
+🧠 I'm currently learning **Nestjs, TypeScript and React**
 
 📫 How to reach me **theo_pierre@hotmail.com**
 
